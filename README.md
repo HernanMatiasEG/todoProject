@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# To-Do List Project
+
+Hello there!
+
+Welcome to my To-Do List project developed with React, Create React App, and Local Storage to conveniently save your progress locally. Here, you have the flexibility to add tasks, mark them as complete, and delete them as needed. The interactive interface also features a donut chart, providing a visual representation of the balance between completed and outstanding tasks.
+
+Enjoy it!
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
